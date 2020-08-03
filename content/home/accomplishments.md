@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Accomplish&shy;ments"
+title = "Courseworks"
 subtitle = ""
 
 # Date format
@@ -19,33 +19,62 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
+  organization = "University of Michigan"
+  organization_url = ""
+  title = "Mobile Robotics"
   url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
-  date_end = ""
-  description = ""
+  certificate_url = ""
+  date_start = "2020-01-01"
+  date_end = "2020-04-23"
+  description = "<li>Simultaneous localization and mapping (SLAM) <br> <li>Kalman Filtering , Particle Filtering <br>  <li>Point Cloud Registeration"
 
 [[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
-  date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
+  organization = "University of Michigan"
+  organization_url = ""
+  title = "Foudamental of Computer Vision"
+  url = ""
+  certificate_url = ""
+  date_start = "2020-01-01"
+  date_end = "2020-04-23"
+  description = "<li>Convolutional Neural Network (CNN)<br> <li>Object Detection<br> <li>Image Processing<br> "
+
+[[item]]
+  organization = "University of Michigan"
+  organization_url = ""
+  title = "Embedded Control"
+  url = ""
+  certificate_url = ""
+  date_start = "2020-01-01"
+  date_end = "2020-04-23"
+  description = "<li>Digital Control System<br> <li>Embedded System"
   
 [[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
+  organization = "University of Michigan"
+  organization_url = ""
+  title = "Computational Data Science and Machine Learning"
   url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
-  description = ""
+  certificate_url = ""
+  date_start = "2020-01-01"
+  date_end = "2020-04-23"
+  description = " <li>Singular Value Decomposition (SVD)<br><li>Least Squares Regression"
 
+[[item]]
+  organization = "University of Michigan"
+  organization_url = ""
+  title = "Self-Driving Cars: Perception and Control"
+  url = ""
+  certificate_url = ""
+  date_start = "2020-01-01"
+  date_end = "2020-04-23"
+  description = "<li>MPC Control<br><li>Deep Learning<br>"
+
+[[item]]
+  organization = "National Tsing Hua University"
+  organization_url = ""
+  title = "Control System"
+  url = ""
+  certificate_url = ""
+  date_start = "2018-01-01"
+  date_end = "2018-04-23"
+  description = "<li>PID Control System<br><li>Linear Control System<br>"
 +++
