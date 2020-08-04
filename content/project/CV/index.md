@@ -3,6 +3,8 @@ title: Depth Completion
 summary: Depth completion is the technique of estimating a dense depth image from sparse depth measurements.
 tags:
 - Depth Completion
+- Computer Vision
+- Machine Learning
 date: "2020-03-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

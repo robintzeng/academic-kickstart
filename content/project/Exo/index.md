@@ -1,8 +1,9 @@
 ---
 title: Exoskeleton
-summary: "Dealing "
+summary: "Seek a new way to deal with the shoulder rehabilitation problem"
 tags:
 - Exoskeleton
+- Robotics
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
@@ -20,5 +21,18 @@ image:
 #   Otherwise, set `slides = ""`.
 slides: example
 ---
+## Abstract
+To deal with the shoulder rehabilitation problem, we made an exoskeleton suit. 
 
-we want to deal with the shoulder rehabilitation problem, so we make this exoskeleton. In this project, there are two parts the sensing part and the activation part, the sensing part get the info and the gesture and send to the activate part to practice the action that record. Thus, the physical therapist can record his motion to the exoskeleton and let the patient do it for many many times.
+In this project, there are two parts of the exoskeleton. The sensing part and the activation part, the sensing part would fetch the information of the rehabilitation exercise from the therapist.  
+
+And then,it will send those information to the activating part to practice the action that recorded. 
+
+Thus, the physical therapist can record his motion to the exoskeleton and let the patient do it for many times.
+
+Also, we made a GUI for the user to record and see whether their gesture is correct or not.
+{{< figure library="true" src="exoskeleton.png" title="" lightbox="true" >}}
+{{< figure library="true" src="EXO_stand.png" title="" lightbox="true" >}}
+{{< figure library="true" src="EXO_sit.png" title="" lightbox="true" >}}
+
+

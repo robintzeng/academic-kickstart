@@ -1,8 +1,10 @@
 ---
 title: Visual Inertia Navigation
-summary: Openvins with the learning based feature extractor -- Superpoint
+summary: Navigate the drone with Openvins and the  learning based feature extractor -- Superpoint
 tags:
-- Mobile Robotics
+- Robotics
+- Computer Vision
+- Machine Learning
 date: "2020-03-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

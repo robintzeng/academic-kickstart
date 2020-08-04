@@ -27,9 +27,16 @@ subtitle = ""
      tag = "*"
   
   [[content.filter_button]]
-     name = "Eurobot"
-     tag = "Eurobot"
+     name = "Robotics"
+     tag = "Robotics"
   
+  [[content.filter_button]]
+     name = "Computer Vision"
+     tag = "Computer Vision"
+  
+  [[content.filter_button]]
+     name = "Machine Learning"
+     tag = "Machine Learning"
   # [[content.filter_button]]
   #   name = "Other"
   #   tag = "Demo"
@@ -46,7 +53,7 @@ subtitle = ""
   view = 5
 
   # For Showcase view, flip alternate rows?
-  flip_alt_rows = false
+  flip_alt_rows = true
 
 [design.background]
   # Apply a background color, gradient, or image.

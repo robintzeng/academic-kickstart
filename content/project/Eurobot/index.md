@@ -3,6 +3,7 @@ title: Eurobot 2018
 summary: Created in 1998, Eurobot is an international robotics contest.
 tags:
 - Eurobot
+- Robotics
 date: "2018-05-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
