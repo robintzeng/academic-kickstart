@@ -23,12 +23,14 @@ date: "2018-05-27T00:00:00Z"
 {{< figure library="true" src="robot.JPG" title="Robots" lightbox="true" >}}
 
 {{< figure library="true" src="map.png" title="Map" lightbox="true" >}}
-## Conteset
+## Abstract
+Created in 1998, Eurobot is an international robotics contest.<br>
+
 For each team, we have to make two robots that can cooperate to finish the tasks on the given map such as throwing the ball into a bucket and stacking the color bricks in the given order.<br>
 
 When the robots finish the task, they would get some points. The team with higher scores wins.
 
 I was the software team leader in this contest. In our team, we took charge of sensing the world and making the decision for the robot. In addition, I also made an indoor positioning system with UWB and Kalman filter which can locate the rival accurately.
 
-
+## Video
 {{< youtube Uo4OeNeYvSM >}}

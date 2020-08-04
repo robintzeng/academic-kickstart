@@ -1,9 +1,9 @@
 ---
-title: Mobile Robotics
-summary: Created in 1998, Eurobot is an international robotics contest.
+title: Visual Inertia Navigation
+summary: Openvins with the learning based feature extractor -- Superpoint
 tags:
 - Mobile Robotics
-date: "2016-04-27T00:00:00Z"
+date: "2020-03-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -20,8 +20,23 @@ image:
 #   Otherwise, set `slides = ""`.
 slides: example
 ---
-{{< figure library="true" src="robot.JPG" title="Robots" lightbox="true" >}}
+## Abstract
+This project aims to adapt an open source visual
+inertial navigation framework with two modifications. First, an
+alternative visual descriptor and extractor, SuperPoint, is tested
+in place of ORB features. Secondly, an invariant error state is
+implemented in order to more effectively track the IMU pose
+uncertainty while maintaining the visual feature correction step
+in a ”dual track” system. Each of these changes is evaluated
+separately on three datasets obtained from the [EuRoC MAV
+dataset](https://projects.asl.ethz.ch/datasets/doku.php?id=kmavvisualinertialdatasets). Our code repository is located [here](https://github.com/robintzeng/EECS568_team_14_open_vins).
 
-{{< figure library="true" src="map.png" title="Map" lightbox="true" >}}
-
-{{< youtube Uo4OeNeYvSM >}}
+## Performance 
+Evaluate the performance on the EuRoC  MAV dataset
+{{< figure library="true" src="Traj.png" title="" lightbox="true" >}}  
+{{< figure library="true" src="Table_RMSE.png" title="" lightbox="true" >}}  
+{{< figure library="true" src="Error_med.png" title="" lightbox="true" >}} 
+{{< figure library="true" src="Error_diff.png" title="" lightbox="true" >}}
+{{< figure library="true" src="Table_Time.png" title="" lightbox="true" >}}
+## Video
+{{< youtube RPiYuu_pLAU >}}

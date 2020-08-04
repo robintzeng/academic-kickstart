@@ -1,6 +1,6 @@
 ---
 title: Exoskeleton
-summary: Created in 1998, Eurobot is an international robotics contest.
+summary: "Dealing "
 tags:
 - Exoskeleton
 date: "2016-04-27T00:00:00Z"
@@ -9,7 +9,7 @@ date: "2016-04-27T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: 
   focal_point: Smart
 
 
@@ -20,8 +20,5 @@ image:
 #   Otherwise, set `slides = ""`.
 slides: example
 ---
-{{< figure library="true" src="robot.JPG" title="Robots" lightbox="true" >}}
 
-{{< figure library="true" src="map.png" title="Map" lightbox="true" >}}
-
-{{< youtube Uo4OeNeYvSM >}}
+we want to deal with the shoulder rehabilitation problem, so we make this exoskeleton. In this project, there are two parts the sensing part and the activation part, the sensing part get the info and the gesture and send to the activate part to practice the action that record. Thus, the physical therapist can record his motion to the exoskeleton and let the patient do it for many many times.
