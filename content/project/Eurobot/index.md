@@ -31,7 +31,7 @@ For each team, we have to make two robots that can cooperate to finish the tasks
 
 When the robots finish the task, they would get some points. The team with higher scores wins.
 
-I was the software team leader in this contest. In our team, we took charge of sensing the world and making the decision for the robot. In addition, I also made an indoor positioning system with UWB and Kalman filter which can locate the rival accurately.
+I was the software team leader in this contest. In our team, we took charge of sensing the world and making the decision for the robot. In addition, I made an indoor positioning system with UWB and Kalman filter which can locate the rival accurately.
 
 ## Video
 {{< youtube Uo4OeNeYvSM >}}

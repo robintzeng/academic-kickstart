@@ -23,7 +23,7 @@ image:
 slides: example
 ---
 ## Abstract
-This project aims to adapt an open source visual
+This project aims to adopt an open-source visual
 inertial navigation framework with two modifications. First, an
 alternative visual descriptor and extractor, SuperPoint, is tested
 in place of ORB features. Secondly, an invariant error state is

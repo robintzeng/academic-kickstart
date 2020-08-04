@@ -27,7 +27,7 @@ slides: example
 ## Abstract
 We develop the learning architecture that can effectively complete the dense depth from a **color image** and **sparse LiDAR** data. 
 
-Our model consists of two pathways: the **local pathway** and the **global pathway** which is illustrated in Fig 1. The local pathway aims to extract high-resolution features, and it is made up of 2D block, which is illustrated in Fig. 2(b). The global pathway extracts low-resolution features, and it comprises our proposed U-Block, as shown in Fig. 2(a). The structure of the pathway is illistrated in Fig 3. 
+Our model consists of two pathways: the **local pathway** and the **global pathway** which is illustrated in Fig 1. The local pathway aims to extract high-resolution features, and it is made up of 2D blocks, which is illustrated in Fig. 2(b). The global pathway extracts low-resolution features, and it comprises our proposed U-Block, as shown in Fig. 2(a). The structure of the pathway is illustrated in Fig 3. 
 
 Also, we improve the performance of the local pathway by concatenating binary mask to the sparse LiDAR data, because the binary mask can help our model to indicate the valid values of sparse LiDAR data. 
 

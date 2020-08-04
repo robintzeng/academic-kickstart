@@ -24,11 +24,11 @@ slides: example
 ## Abstract
 To deal with the shoulder rehabilitation problem, we made an exoskeleton suit. 
 
-In this project, there are two parts of the exoskeleton. The sensing part and the activation part, the sensing part would fetch the information of the rehabilitation exercise from the therapist.  
+In this project, there are two parts of the exoskeleton. The sensing part and the activation part, the sensing part would fetch the information about the rehabilitation exercise from the therapist.  
 
-And then,it will send those information to the activating part to practice the action that recorded. 
+And then, it will send that information to the activating part to practice the action that recorded. 
 
-Thus, the physical therapist can record his motion to the exoskeleton and let the patient do it for many times.
+Thus, the physical therapist can record his motion to the exoskeleton and let the patient do it many times.
 
 Also, we made a GUI for the user to record and see whether their gesture is correct or not.
 {{< figure library="true" src="exoskeleton.png" title="" lightbox="true" >}}
