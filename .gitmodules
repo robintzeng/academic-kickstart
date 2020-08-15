@@ -5,3 +5,7 @@
 	path = public
 	url = https://github.com/robintzeng/robintzeng.github.io.git
 	branch = master
+[submodule "static/files"]
+	path = static/files
+	url = https://github.com/robintzeng/my_resume_pdf.git
+	branch = master
