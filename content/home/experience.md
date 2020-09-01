@@ -18,6 +18,49 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "ASML"
+  company = "Droplet Generation Control and Automation System Intern"
+  company_url = ""
+  location = "San Diego, CA"
+  date_start = "2020-05-21"
+  date_end = "2020-08-14"
+  description = """
+  <br>
+
+  * Designed an object detection pipeline using OpenCV, Tkinter and Scikit-learn to detect the tin droplets and satellites,including preprocessing, labeling, feature extraction and classification from scratch.
+  * Detected the interest objects with maximally stable extremal regions (MSER) and eliminated the overlapped bounding boxes with Non-Maximum Suppression (NMS) and achieved 99% accuracy.
+  * Evaluated the classifiers’ performance using k-fold cross validation confusion matrix, learning curve and validation curve to prevent overfitting.
+  """
+
+[[experience]]
+  title = "Mobile Robotics - Visual Inertia Navigation"
+  company = "Team Leader"
+  company_url = ""
+  location = "Ann Arbor, MI"
+  date_start = "2020-03-01"
+  date_end = "2020-04-20"
+  description = """
+  <br>
+
+  * Improved a Muti-State Constraint Kalman filter-based visual inertial navigation framework (Openvins) with learning-based interest point extractor – SuperPoint in Pytorch using C++
+  * Evaluated the performance on the EuRoC MAV dataset with ROS and ameliorated the performance for every tasks..
+  """
+
+[[experience]]
+  title = "Computer Vision - Depth Completion"
+  company = "Team Member"
+  company_url = ""
+  location = "Ann Arbor, MI"
+  date_start = "2020-03-01"
+  date_end = "2020-04-20"
+  description = """
+  <br>
+
+  * Completed dense depth data from a color image and sparse LiDAR data in KITTI depth completion benchmark.
+  * Developed learning architecture included a two pathway system with the U-Net like low-resolution feature extractor,and utilized attention mechanism to propose the final prediction in Pytorch..
+  """
+
+[[experience]]
   title = "Self-Driving Car - Object Detection"
   company = "Perception Team Leader"
   company_url = ""

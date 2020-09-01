@@ -49,7 +49,7 @@ social:
   link: https://github.com/robintzeng
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/jing-an-tzeng-459b4a13a/
+  link: https://www.linkedin.com/in/jing-an-tzeng/
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
