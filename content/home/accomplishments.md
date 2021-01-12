@@ -21,6 +21,17 @@ date_format = "Jan 2006"
 [[item]]
   organization = "University of Michigan"
   organization_url = ""
+  title = "Advanced Computer Vision"
+  url = ""
+  certificate_url = ""
+  date_start = "2020-09-01"
+  date_end = "2020-12-23"
+  description = "<li>Convolutional Neural Network (CNN)<br> <li>Object Detection<br> <li>Image Processing<br> "
+
+
+[[item]]
+  organization = "University of Michigan"
+  organization_url = ""
   title = "Mobile Robotics"
   url = "/project/mobile/"
   certificate_url = ""
