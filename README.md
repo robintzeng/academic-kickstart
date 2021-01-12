@@ -3,6 +3,10 @@
 git submodule init
 git submodule update
 ```
+## Run local server
+```
+hugo server -D
+```
 
 
 
