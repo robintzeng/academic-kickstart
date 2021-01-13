@@ -1,6 +1,6 @@
 ---
 title: Exoskeleton
-summary: "Seek a new way to deal with the shoulder rehabilitation problem"
+summary: "Seeked a new way to deal with the shoulder rehabilitation problem"
 tags:
 - Exoskeleton
 - Robotics

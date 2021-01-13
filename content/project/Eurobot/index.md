@@ -1,6 +1,6 @@
 ---
 title: Eurobot 2018
-summary: Created in 1998, Eurobot is an international robotics contest.
+summary: Biult two robots and solved the tasks in Eurobot which is an international robotics contest in Europe annually.
 tags:
 - Eurobot
 - Robotics
