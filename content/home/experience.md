@@ -27,10 +27,8 @@ date_format = "Jan 2006"
   description = """
   <br>
 
-  * Designed an object detection pipeline from scratch by OpenCV, Tkinter and Scikit-learn in Python to detect the tin
-  droplets and satellites for preprocessing, labeling, feature extraction and classification.
-  * Detected the interest objects with maximally stable extremal regions (MSER), eliminated the overlapped bounding
-  boxes with Non-Maximum Suppression (NMS) and achieved 99% accuracy.
+  * Designed an object detection pipeline from scratch by OpenCV, Tkinter and Scikit-learn in Python to detect the tin droplets and satellites for preprocessing, labeling, feature extraction and classification.
+  * Detected the interest objects with maximally stable extremal regions (MSER) and eliminated the overlapped bounding boxes with Non-Maximum Suppression (NMS).
   * Evaluated the classifiers’ performance with k-fold cross validation, learning curve and validation curve.
   """
 
