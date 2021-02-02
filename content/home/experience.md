@@ -63,7 +63,7 @@ date_format = "Jan 2006"
 
 
 [[experience]]
-  title = "Mobile Robotics - Visual Inertia Navigation"
+  title = "Mobile Robotics - Visual Inertia Navigation (VI-SLAM)"
   company = "Team Leader"
   company_url = ""
   location = "Ann Arbor, MI"
