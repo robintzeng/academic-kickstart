@@ -10,21 +10,22 @@ authors:
 superuser: true
 
 # Role/position
-role: 2nd Year Master Student in Electrical and Computer Engineering
+role: Video Processing Algorithm Engineer
 
 # Organizations/Affiliations
 organizations:
-- name: University of Michigan 
+- name: Zoom Video Communication Inc. 
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: My interests include Robotics, Computer Vision and Control System.
 
 interests:
-- Robotics
 - Computer Vision
 - Artificial Intelligence
-- Control System
+- Image Processing
+- Machine Learning
+- Robotics
 
 education:
   courses:

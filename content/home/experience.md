@@ -18,6 +18,25 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Zoom"
+  company = "Software Engineer, Video Processing Algorithm Engineer"
+  company_url = ""
+  location = "San Jose, CA"
+  date_start = "2021-07-12"
+  date_end = ""
+  description = """
+  <br>
+
+* Conducted comprehensive research, design, training, implementation, and evaluation of a lightweighted virtual
+background model (VB) specifically optimized for low-end machines.
+* Achieved 2x speed improvement compared to our standard VB model and reduced the size to less than 100KB.
+* Developed an asynchronous face recognition pipeline utilizing three distinct deep learning models: object detector,
+person re-identification, and face recognition.
+* Prototyped face recognition pipeline for Zoom Room on Windows and MacOS platform in C++.
+* Facilitated communication and collaboration among teams and across different companies.
+  """
+  
+[[experience]]
   title = "ASML"
   company = "Droplet Generation Control and Automation System Intern"
   company_url = ""
